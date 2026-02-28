@@ -1,8 +1,8 @@
-# HyperView
+### HyperView
 
 HyperView is a lightweight Chromium-based browser built from scratch in C++ using Win64 and Microsoft WebView2.
 
-## Features
+### Features
 
 - Custom dark theme UI
 - Custom-drawn tab strip
@@ -12,7 +12,7 @@ HyperView is a lightweight Chromium-based browser built from scratch in C++ usin
 - Auto-updating tab titles
 - Powered by Microsoft Edge WebView2
 
-## Build Instructions
+### Build Instructions
 
 ### Requirements
 
